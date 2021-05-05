@@ -33,6 +33,6 @@ public class NumberOfYears {
         System.out.println(minutes + " is approximately " + years + " years and " + days + " days");
         
         
-    
+        input.close();
     }
 }
