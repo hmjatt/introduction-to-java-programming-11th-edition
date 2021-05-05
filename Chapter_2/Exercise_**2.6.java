@@ -35,5 +35,7 @@ public class Multiplier {
         //print it out
         System.out.println("The multiplication of all digits in " + number + " is : " + multiplication);
         
+        input.close();
+        
     }
 }
