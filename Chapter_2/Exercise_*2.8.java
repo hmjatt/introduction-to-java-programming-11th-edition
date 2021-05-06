@@ -46,5 +46,7 @@ public class CurrentTime {
         // Display results 
         System.out.println("Current time is " + currentOffsetHour + ":" + currentMinute + ":" + currentSecond + " GMT");
         
+        input.close()
+        
     }
 }
