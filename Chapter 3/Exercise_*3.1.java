@@ -38,5 +38,7 @@ public class SolveQuadraticEquation
         else {
             System.out.println("The equation has no real roots");
         }
+        
+        input.close();
     }
 }
